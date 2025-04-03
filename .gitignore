@@ -1,0 +1,24 @@
+# Ignore environment files
+.env
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore logs and database files
+*.log
+# attack_logs.txt
+# error_log.txt
+data/processed_data.pkl
+
+# Ignore virtual environment (if using one)
+venv/
+env/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore VS Code settings
+.vscode/
