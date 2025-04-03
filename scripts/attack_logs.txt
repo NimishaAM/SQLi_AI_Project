@@ -1,0 +1,20 @@
+[2025-03-25 05:39:30] SQL Injection Attempt Detected - IP: 127.0.0.1 - Query: ' OR 1=1 --
+[2025-03-25 05:52:03] SQL Injection Attempt Detected - IP: 127.0.0.1 - Query: ' OR 1=1 --
+[2025-03-25 05:52:06] SQL Injection Attempt Detected - IP: 127.0.0.1 - Query: ' OR 1=1 --
+[2025-03-25 06:16:57] SQL Injection Attempt Detected - IP: 127.0.0.1 - Query: {
+  "query": "' OR 1=1 --"
+}
+
+[2025-03-25 20:08:40] SQL Injection Attempt Detected - IP: 127.0.0.1 - Query: {
+  "query": "' OR 1=1 --"
+}
+
+[2025-03-25 20:11:07] SQL Injection Attempt Detected - IP: 127.0.0.1 - Query: {
+  "query": "' OR 1=1 --"
+}
+
+[2025-03-25 20:11:40] SQL Injection Attempt Detected - IP: 127.0.0.1 - Query: ' OR 1=1 --
+[2025-03-25 20:20:44] SQL Injection Attempt Detected - IP: 127.0.0.1 - Query: {\"query\":\"' OR 1=1 --\"}
+[2025-03-25 23:01:45] SQL Injection Attempt Detected - IP: 127.0.0.1 - Query: ' OR 1=1 --
+[2025-03-25 23:02:57] SQL Injection Attempt Detected - IP: 127.0.0.1 - Query: {\"query\":\"' OR 1=1 --\"}
+[2025-03-25 23:03:26] SQL Injection Attempt Detected - IP: 127.0.0.1 - Query: {\"query\":\"' OR 2=2 --\"}
